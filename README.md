@@ -3,7 +3,10 @@
 **IUT 12th ICT FEST — Agentic AI Hackathon**
 **Dates:** 10 AM, 24 July - 10 AM, 25 July, 2026
 
-This repository hosts our team's project for the IUT 12th ICT FEST Agentic AI Hackathon.
+> ⚠️ **PLANNING REPO — NOT FOR SUBMISSION**
+> This repo is pre-event planning/notes. Per hackathon rules, the actual submission repo must be **created on-site on 24 July** during the Opening Ceremony. Do not submit this URL to judges.
+
+This repository hosts our team's **internal planning notes** for the IUT 12th ICT FEST Agentic AI Hackathon.
 
 ---
 
